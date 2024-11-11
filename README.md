@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Dmitri Gluhovski books
 - 💞️ I’m looking to collaborate with Watashi 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 😄 Pronouns: 
+- ⚡ Fun fact: Whoever reads this will become a beer.
