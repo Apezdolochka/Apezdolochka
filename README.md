@@ -2,6 +2,6 @@
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning Dmitri Gluhovski books
 - 💞️ I’m looking to collaborate with Watashi 
-- 📫 How to reach me ...
+- 📫 How to reach me: Telegram: https://t.me/IAR97I_Official
 - 😄 Pronouns: 
 - ⚡ Fun fact: Whoever reads this will become a beer.
