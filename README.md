@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Apezdolochka
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning Dmitri Gluhovski books
-- 💞️ I’m looking to collaborate with Watashi 
-- 📫 How to reach me: Telegram: https://t.me/IAR97I_Official
-- 😄 Pronouns: 
+- 💞️ I’m looking to collaborate with [Watashi](https://github.com/aksueikava)
+- 📫 How to reach me: my telegram: https://t.me/IAR97I_Official
 - ⚡ Fun fact: Whoever reads this will become a beer.
