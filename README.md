@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Apezdolochka
-- 👀 I’m interested in C#
+- 👀 I’m interested in C# and Python.
 - 🌱 I’m currently learning Dmitri Gluhovski books
 - 💞️ I’m looking to collaborate with [Watashi](https://github.com/aksueikava)
 - 📫 How to reach me: my telegram: https://t.me/IAR97I_Official
